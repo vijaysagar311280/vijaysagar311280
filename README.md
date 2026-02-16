@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">
-  Smart Water | SCADA | PLC | OT–IT Integration | Digital Utilities
+Management Consultant Principal | Global Water & Power Utilities | Smart Infrastructure Leader
 </h2>
 
 <p align="center">
@@ -15,11 +15,12 @@
 
 ## 👨‍💼 Executive Profile
 
-✔️ 21+ Years Experience in Large-Scale Water Infrastructure  
-✔️ SCADA Architecture & PLC Automation Specialist  
-✔️ Smart Metering (AMI / AMR) Implementation Leader  
-✔️ DMA | NRW | 24x7 Distribution Expert  
-✔️ OT-IT Convergence & DevOps Collaboration  
+🔹 Currently working as **Management Consultant Principal – Global Water & Power Utilities**  
+🔹 21+ Years Experience in Large-Scale Water Infrastructure & Smart Utility Programs  
+🔹 SCADA Architecture & PLC Automation Specialist  
+🔹 Smart Metering (AMI / AMR) & DMA Implementation Leader  
+🔹 NRW Optimization & 24x7 Distribution Strategy  
+🔹 OT–IT Convergence | Digital Transformation | DevOps Collaboration  
 
 ---
 
@@ -27,7 +28,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/SCADA-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCADA-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PLC-A100FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Smart%20Water-6A00FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/IoT-3C096C?style=for-the-badge"/>
@@ -62,4 +63,25 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vijay-sagar-65829419/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vijay%20Sagar-A100FF?style=for-the-badge&logo=linkedin&logoColo
+    <img src="https://img.shields.io/badge/LinkedIn-Vijay%20Sagar-A100FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+🔗 https://www.linkedin.com/in/vijay-sagar-65829419/
+</p>
+
+---
+
+## 🏆 Impact Statement
+
+<p align="center">
+  <b>Engineering Reliable Automation. Enabling Digital Water. Delivering 24/7 Operational Excellence.</b>
+</p>
+
+---
+
+<!-- ================= ACCENTURE THEMED FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A100FF,100:000000&height=120&section=footer"/>
+</p>
