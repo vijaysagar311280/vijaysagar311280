@@ -1,35 +1,37 @@
-<!-- ===== Animated Header ===== -->
+<!-- ================= ACCENTURE THEMED HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Vijay%20Sagar&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:A100FF&height=200&section=header&text=Vijay%20Sagar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h2 align="center">Water Infrastructure | SCADA | PLC | Smart Utilities | OT–IT Integration</h2>
+<h2 align="center">
+  Smart Water | SCADA | PLC | OT–IT Integration | Digital Utilities
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2C5364&size=22&center=true&vCenter=true&width=650&lines=21%2B+Years+Industry+Experience;Smart+Water+%7C+DMA+%7C+AMI+%7C+NRW;SCADA+%7C+Automation+%7C+Control+Systems;DevOps+Collaboration+in+Infrastructure" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=A100FF&size=24&center=true&vCenter=true&width=750&lines=21%2B+Years+Water+Infrastructure+Leadership;SCADA+%7C+PLC+%7C+DMA+%7C+AMI%2FAMR;Smart+Utilities+Digital+Transformation;DevOps+Collaboration+for+Infrastructure;24x7+Water+Supply+%7C+NRW+Optimization" />
 </p>
 
 ---
 
-## 👨‍💼 About Me
+## 👨‍💼 Executive Profile
 
-✔️ 21+ Years in Water & Infrastructure Projects  
-✔️ SCADA / PLC / BPS / DMA Specialist  
-✔️ Smart Metering (AMI/AMR) & NRW Analytics  
-✔️ OT-IT Integration & Digital Transformation  
-✔️ Project Leadership & Commissioning Expert  
+✔️ 21+ Years Experience in Large-Scale Water Infrastructure  
+✔️ SCADA Architecture & PLC Automation Specialist  
+✔️ Smart Metering (AMI / AMR) Implementation Leader  
+✔️ DMA | NRW | 24x7 Distribution Expert  
+✔️ OT-IT Convergence & DevOps Collaboration  
 
 ---
 
-## 🛠️ Core Technologies
+## ⚙️ Core Competencies
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/PLC-004B87?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SCADA-005F73?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Smart%20Water-0A9396?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IoT-94D2BD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DevOps-001219?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SCADA-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/PLC-A100FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Smart%20Water-6A00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT-3C096C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DevOps-7209B7?style=for-the-badge"/>
 
 </p>
 
@@ -40,36 +42,24 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijaysagar311280&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaysagar311280&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vijaysagar311280&show_icons=true&theme=midnight-purple&hide_border=true&title_color=A100FF&icon_color=A100FF" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaysagar311280&theme=midnight-purple&hide_border=true&ring=A100FF&fire=A100FF" height="165"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Professional Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vijay-sagar-65829419/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vijay%20Sagar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>💧 Designing 24/7 Smart Water Systems | Building Reliable Automation | Enabling Digital Utilities</b>
-</p>
-
-<!-- ===== Animated Footer ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer"/>
-</p>
+    <img src="https://img.shields.io/badge/LinkedIn-Vijay%20Sagar-A100FF?style=for-the-badge&logo=linkedin&logoColo
